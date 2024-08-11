@@ -9,6 +9,7 @@ import SwiftUI
 
 struct CardView: View {
     var body: some View {
+<<<<<<< HEAD
         
         VStack {
             Image("swift5")
@@ -46,6 +47,10 @@ struct CardView: View {
     }
     
         
+=======
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+>>>>>>> cc3b1f71584886011e60bd74eb03a6eebec0daad
 }
 
 #Preview {

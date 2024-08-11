@@ -11,7 +11,10 @@
 		039AEC9A2C687EAF00A8E8CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039AEC992C687EAF00A8E8CC /* ContentView.swift */; };
 		039AEC9C2C687EB000A8E8CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 039AEC9B2C687EB000A8E8CC /* Assets.xcassets */; };
 		039AEC9F2C687EB000A8E8CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 039AEC9E2C687EB000A8E8CC /* Preview Assets.xcassets */; };
+<<<<<<< HEAD
 		039AECA62C687F6300A8E8CC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039AECA52C687F6300A8E8CC /* CardView.swift */; };
+=======
+>>>>>>> cc3b1f71584886011e60bd74eb03a6eebec0daad
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +23,10 @@
 		039AEC992C687EAF00A8E8CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		039AEC9B2C687EB000A8E8CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		039AEC9E2C687EB000A8E8CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		039AECA52C687F6300A8E8CC /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> cc3b1f71584886011e60bd74eb03a6eebec0daad
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +63,10 @@
 				039AEC992C687EAF00A8E8CC /* ContentView.swift */,
 				039AEC9B2C687EB000A8E8CC /* Assets.xcassets */,
 				039AEC9D2C687EB000A8E8CC /* Preview Content */,
+<<<<<<< HEAD
 				039AECA52C687F6300A8E8CC /* CardView.swift */,
+=======
+>>>>>>> cc3b1f71584886011e60bd74eb03a6eebec0daad
 			);
 			path = "F04-ScrollViews";
 			sourceTree = "<group>";
@@ -141,7 +150,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				039AEC9A2C687EAF00A8E8CC /* ContentView.swift in Sources */,
+<<<<<<< HEAD
 				039AECA62C687F6300A8E8CC /* CardView.swift in Sources */,
+=======
+>>>>>>> cc3b1f71584886011e60bd74eb03a6eebec0daad
 				039AEC982C687EAF00A8E8CC /* F04_ScrollViewsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
